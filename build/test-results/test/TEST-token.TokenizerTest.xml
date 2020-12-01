@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="token.TokenizerTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-12-01T08:42:09" hostname="mterentev-nb-2.local" time="0.016">
+  <properties/>
+  <testcase name="2 + 2" classname="token.TokenizerTest" time="0.014"/>
+  <testcase name="12 div (11- 1)" classname="token.TokenizerTest" time="0.001"/>
+  <testcase name="11 + 5 * 2" classname="token.TokenizerTest" time="0.001"/>
+  <testcase name="incorrectTest" classname="token.TokenizerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
